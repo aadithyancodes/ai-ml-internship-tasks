@@ -25,8 +25,6 @@ ai-ml-internship-tasks/
 │   ├── multiply_function/
 │   ├── square_function/
 │   ├── even_odd_checker/
-│   ├── car_class/
-│   ├── fruit_and_vegetable_class/
 │   ├── light_toggle_class/
 │   ├── login_checker/
 │   ├── grade_list_checker/
@@ -50,8 +48,6 @@ ai-ml-internship-tasks/
 * ✅ Multiply Function
 * ✅ Square Function
 * ✅ Even Odd Checker
-* ✅ Car Class
-* ✅ Fruit and Vegetable Class
 * ✅ Light Toggle Class
 * ✅ Login Checker
 * ✅ Grade List Checker
